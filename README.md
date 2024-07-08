@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmirAmArA
 - 👀 I’m interested in broad knowledge in every software aspect
-- 🌱 I’m currently taking my MSc in Software Engineering ...
+- 🌱 BSc & MSc in Software Engineering ...
 - 💞️ I’m looking to collaborate on startups and fresh ideas that are innovative 
 - 📫 my email is : amiramara11@gmail.com
 
