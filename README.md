@@ -25,7 +25,7 @@ My focus is on **scalable architectures, clean frontend systems, reliable backen
 - State management, performance optimization, accessibility
 
 **Backend**
-- Node.js, Express
+- Node.js, Express, Fastify
 - Python (APIs, automation, AI workflows)
 - RESTful architecture, authentication, role-based access
 
