@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Amir
 
-<img align="right" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="gif-pic"/>
+[![MasterHead](https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif)](https://rishavchanda.io)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmirAmArA&label=Profile%20views&color=0e75b6&style=flat" alt="AmirAmArA" /> </p>
 
 Senior Full-Stack Engineer | Tech Lead | Product Builder
 
