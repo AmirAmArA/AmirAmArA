@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Amir
 
-[![MasterHead](https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif)](https://rishavchanda.io)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmirAmArA&label=Profile%20views&color=0e75b6&style=flat" alt="AmirAmArA" /> </p>
 
 Senior Full-Stack Engineer | Tech Lead | Product Builder
@@ -78,8 +77,9 @@ Digital business card SaaS
 
 ## 📫 Contact
 
-- LinkedIn: [[link-here](https://www.linkedin.com/in/amir-amara-715a3aa8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B5%2FIKiWPoT267wAQ2v2UEdQ%3D%3D)]
-- Email: [amiramara11@gmail.com]
+<p align="left">
+<a href="[https://linkedin.com/in/amir-amara-715a3aa8](https://www.linkedin.com/in/amir-amara-715a3aa8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B5%2FIKiWPoT267wAQ2v2UEdQ%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-amara-715a3aa8" height="30" width="40" /></a>
+<a href="[mailto:amiramara11@gmail.com]" target="blank"><img align="center" src="https://www.svgrepo.com/show/484564/email-part-2.svg" alt="amir-amara" height="30" width="40" /></a>
 
 ---
 
