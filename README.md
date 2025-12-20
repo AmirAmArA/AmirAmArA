@@ -21,25 +21,9 @@ My focus is on **scalable architectures, clean frontend systems, reliable backen
 
 ## 🧱 Tech Stack
 
-**Frontend**
-- React, Next.js (App Router)
-- TypeScript, Tailwind CSS, shadcn/ui
-- State management, performance optimization, accessibility
-
-**Backend**
-- Node.js, Express, Fastify
-- Python (APIs, automation, AI workflows)
-- RESTful architecture, authentication, role-based access
-
-**Data**
-- MySQL, MongoDB, Redis
-- Schema design, migrations, data integrity
-
-**DevOps**
-- Docker, Docker Compose
-- Jenkins (JCasC, pipelines)
-- Nginx, Linux servers
-- Cloud deployments (DigitalOcean / AWS-style setups)
+| Frontend | Backend | Data | DevOps |
+|----------|---------|------|--------|
+| React, Next.js (App Router)<br/>TypeScript, Tailwind CSS, shadcn/ui<br/>State management, performance optimization, accessibility | Node.js, Express, Fastify<br/>Python (APIs, automation, AI workflows)<br/>RESTful architecture, authentication, role-based access | MySQL, MongoDB, Redis<br/>Schema design, migrations, data integrity | Docker, Docker Compose<br/>Jenkins (JCasC, pipelines)<br/>Nginx, Linux servers<br/>Cloud deployments (DigitalOcean / AWS-style setups) |
 
 ---
 
@@ -63,15 +47,6 @@ Digital business card SaaS
 - Multi-environment deployments
 
 *(Private repos reflect real-world work — public samples focus on architecture and patterns.)*
-
----
-
-## 🧭 How I Work
-
-- Strong ownership mindset
-- Bias toward **clarity, maintainability, and leverage**
-- Prefer boring, reliable tech over shiny disasters
-- Think in **systems**, not tickets
 
 ---
 
