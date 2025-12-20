@@ -29,22 +29,12 @@ My focus is on **scalable architectures, clean frontend systems, reliable backen
 
 ## 🚀 Selected Projects
 
-### **Basmti**
-Personalized children’s book platform  
-- AI-assisted content generation  
-- Scalable order and production flow  
-- 20,000+ books delivered  
-
-### **Carder**
-Digital business card SaaS  
-- Modular page system  
-- Sharing & analytics  
-- Full-stack ownership
-
-### **Operational Systems**
-- Internal dashboards
-- CI/CD automation
-- Multi-environment deployments
+| Project | Description | Key Points |
+|--------|-------------|------------|
+| **Basmti** | Personalized children’s book platform | • AI-assisted content generation<br/>• Scalable order & production workflows<br/>• 20,000+ books delivered |
+| **Carder** | Digital business card SaaS | • Modular, extensible page system<br/>• Secure sharing & usage analytics<br/>• End-to-end full-stack ownership |
+| **Seas Skeleton** | Production-ready backend skeleton / starter system | • Opinionated project structure<br/>• Auth, roles, and environment setup out of the box<br/>• Designed for fast MVP-to-production scaling |
+| **Operational Systems** | Internal tooling & infrastructure | • Internal dashboards and admin panels<br/>• CI/CD automation pipelines<br/>• Multi-environment deployments (dev / staging / prod) |
 
 *(Private repos reflect real-world work — public samples focus on architecture and patterns.)*
 
