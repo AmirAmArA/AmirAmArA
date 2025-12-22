@@ -8,7 +8,6 @@ I build **production-grade systems**, not demos.
 My focus is on **scalable architectures, clean frontend systems, reliable backend services, and DevOps that doesn’t collapse at 3am**.
 
 ---
-
 ## 🧠 What I Do
 
 - Architect and build **SaaS products** from zero → production
@@ -18,7 +17,6 @@ My focus is on **scalable architectures, clean frontend systems, reliable backen
 - Integrate **AI tooling** pragmatically to increase delivery speed (not hype)
 
 ---
-
 ## 🧱 Tech Stack
 
 | Frontend | Backend | Data | DevOps |
@@ -26,7 +24,6 @@ My focus is on **scalable architectures, clean frontend systems, reliable backen
 | React, Next.js (App Router)<br/>TypeScript, Tailwind CSS, shadcn/ui<br/>State management, performance optimization, accessibility | Node.js, Express, Fastify<br/>Python (APIs, automation, AI workflows)<br/>RESTful architecture, authentication, role-based access | MySQL, MongoDB, Redis<br/>Schema design, migrations, data integrity | Docker, Docker Compose<br/>Jenkins (JCasC, pipelines)<br/>Nginx, Linux servers<br/>Cloud deployments (DigitalOcean / AWS-style setups) |
 
 ---
-
 ## 🚀 Selected Projects
 
 | Project | Description | Key Points |
@@ -37,13 +34,5 @@ My focus is on **scalable architectures, clean frontend systems, reliable backen
 | **Operational Systems** | Internal tooling & infrastructure | • Internal dashboards and admin panels<br/>• CI/CD automation pipelines<br/>• Multi-environment deployments (dev / staging / prod) |
 
 *(Private repos reflect real-world work — public samples focus on architecture and patterns.)*
-
 ---
-
-## 📫 Contact
-
-- LinkedIn: [[link-here](https://www.linkedin.com/in/amir-amara-715a3aa8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B5%2FIKiWPoT267wAQ2v2UEdQ%3D%3D)]
-- Email: [amiramara11@gmail.com]
----
-
 > “Complexity is easy. Reliability takes discipline.”
